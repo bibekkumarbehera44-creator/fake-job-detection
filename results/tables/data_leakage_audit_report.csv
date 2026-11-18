@@ -1,0 +1,6 @@
+Audit Check,Result
+Total dataset rows,17880
+Exact duplicate rows,0
+Duplicate combined text postings,1814
+Conflicting duplicate labels,0
+Train-test exact text overlap,267

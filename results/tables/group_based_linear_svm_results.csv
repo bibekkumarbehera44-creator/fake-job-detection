@@ -1,0 +1,2 @@
+Evaluation,Model,Training Samples,Testing Samples,Accuracy,Precision,Recall,F1-score,ROC-AUC,PR-AUC,Train-Test Group Overlap
+Group-based 80:20,TF-IDF + Linear SVM,14304,3576,0.988255033557047,0.901840490797546,0.8497109826589595,0.875,0.9906746682203224,0.9297464179737773,0

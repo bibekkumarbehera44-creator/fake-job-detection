@@ -1,0 +1,10 @@
+Provisional Best Model: Linear SVM - ROS
+
+              precision    recall  f1-score   support
+
+     Genuine       0.99      1.00      1.00      3403
+  Fraudulent       0.97      0.87      0.92       173
+
+    accuracy                           0.99      3576
+   macro avg       0.98      0.94      0.96      3576
+weighted avg       0.99      0.99      0.99      3576

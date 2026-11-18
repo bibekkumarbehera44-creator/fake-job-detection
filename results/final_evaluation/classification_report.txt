@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     Genuine       0.99      1.00      1.00      3403
+  Fraudulent       0.95      0.88      0.91       173
+
+    accuracy                           0.99      3576
+   macro avg       0.97      0.94      0.95      3576
+weighted avg       0.99      0.99      0.99      3576

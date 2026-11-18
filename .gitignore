@@ -1,0 +1,118 @@
+# =====================================
+# PYTHON CACHE FILES
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =====================================
+# VIRTUAL ENVIRONMENTS
+# =====================================
+.venv/
+venv/
+env/
+ENV/
+new_venv/
+env.bak/
+venv.bak/
+
+# =====================================
+# TESTING & CACHE
+# =====================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cache/
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# =====================================
+# DATASETS - DO NOT UPLOAD
+# =====================================
+dataset/
+datasets/
+
+# Processed data
+data/processed/
+data/raw/
+
+# =====================================
+# MODEL TEMPORARY FILES
+# =====================================
+*.tmp
+*.temp
+*.bak
+*.log
+
+# =====================================
+# GENERATED FILES
+# =====================================
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+
+# =====================================
+# ENVIRONMENT VARIABLES & SECRETS
+# =====================================
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+.pypirc
+
+# =====================================
+# DATABASE FILES
+# =====================================
+*.sqlite3
+*.db
+db.sqlite3
+
+# =====================================
+# IDE SETTINGS
+# =====================================
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# =====================================
+# JUPYTER & PYTHON TOOLS
+# =====================================
+.ipython/
+.ipynb_checkpoints/
+__pypackages__/
+
+# =====================================
+# TEMPORARY FILES
+# =====================================
+tempCodeRunnerFile.py
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# =====================================
+# LARGE MODEL FILES
+# =====================================
+# Uncomment if you don't want to upload model files
+# *.pkl
+# *.joblib
+# *.h5
+# *.pt
+# *.pth
+# *.onnx
+
+# =====================================
+# GENERATED RESULTS
+# =====================================
+# Add specific temporary result folders here if needed
+# results/temp/
